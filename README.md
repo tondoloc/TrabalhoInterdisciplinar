@@ -1,2 +1,2 @@
 # TrabalhoInterdisciplinar
-Trabalho entregue para a disciplina de AM &amp; ML
+Trabalho desenvolvido para a disciplina de AM &amp; ML do curso de especialização em ciência de dados do IFSP.
